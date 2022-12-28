@@ -1,0 +1,42 @@
+.mainDiv {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+}
+.ulcon {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  width: 50%;
+}
+.inpusearchcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  border-width: 1px;
+}
+.inpu {
+  outline: none;
+
+  width: 100%;
+  padding: 6px;
+  background-color: transparent;
+}
+.searchh {
+  width: 10%;
+}
+.downCon {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+.jdfdg {
+  display: flex;
+  justify-content: center;
+}
